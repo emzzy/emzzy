@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 
-
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,10 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-- 🔭 I’m currently working on a real-time telemedicine app <br> - 🌱 I’m currently learning about a CRM<br>a AI powered chat app<br>AWS<br><br>
-
-
+💫 About Me:
+- 🔭 I’m currently working on a real-time telemedicine app
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuelezeh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ezehemmanuel265) 
 
