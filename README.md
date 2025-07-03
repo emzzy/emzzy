@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a real-time telemedicine app<br>👯 I’m looking to collaborate on OpenSource projects<br>🌱 I’m currently learning React<br>💬 Ask me about Software engineering, I hope i can answer all ;)<br>
+🔭 I’m currently working on a real-time telemedicine app<br>👯 I’m looking to collaborate on OpenSource projects<br>🌱 I’m constantly learning new technologies<br>💬 Ask me about Software engineering, I hope i can answer all ;)<br>
 
 
 ## 🌐 Socials:
